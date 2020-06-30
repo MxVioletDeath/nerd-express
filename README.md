@@ -7,5 +7,5 @@
 <>
 
   
-`` ## Languages & Technologies used
+## Languages & Technologies used
 `` ## MySQL, Node, Express, Handlebars, ORM
