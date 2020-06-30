@@ -6,6 +6,6 @@
 ## Link to Heroku Deployment
 <>
 
-<br><br>  
-`` Languages & Technologies used
-`` MySQL, Node, Express, Handlebars, ORM
+  
+`` ## Languages & Technologies used
+`` ## MySQL, Node, Express, Handlebars, ORM
