@@ -8,4 +8,4 @@
 
   
 ## Languages & Technologies used
-`` ## MySQL, Node, Express, Handlebars, ORM
+``` MySQL, Node, Express, Handlebars, ORM
